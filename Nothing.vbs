@@ -1,0 +1,10 @@
+X=MsgBox("Error while opening Nothing. Do you want to fix it?,4+64,"Nothing"
+X=MsgBox("Unable to fix this error. Do you want to scan your Computer",3+48,"Computer Scan")
+X=MsgBox("Alert! Still failed. Do you want to delete this.",3+16,"Alert")
+X=MsgBox("Unable to delete Nothing.vbs",1+64,"Critical Error")
+X=MsgBox("Oh no...",2+16,"Windows Activation")
+X=MsgBox("ÿøü wërė håçkēd",2+16,"Warning!")
+X=MsgBox("Its spreading to other users...",2+48,"Øh ńō")
+X=MsgBox("Please wait. we are uploading your files to fixer",4+64,"Upload Starting..")
+X=MsgBox("Sorry, failed to stop. which means...",1+16,"Failed"
+X=MsgBox("You lost your data Starting Erase Process",1+64,"Lost Your Data"
